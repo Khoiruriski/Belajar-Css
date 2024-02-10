@@ -1,0 +1,13 @@
+div{
+    width: 300px;
+    padding: 50px;
+    margin: 20px;
+    border: 15px solid black;
+}
+
+div{
+    border-style: groove;
+    border-width: 5px;
+    border-top-width : 10px;
+     border-bottom-width: 10px;
+}
